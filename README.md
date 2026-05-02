@@ -79,7 +79,7 @@ Code. Break. Optimize. Repeat.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-B23&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akash-B23&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-B23&theme=chartreuse-dark&hide_border=true" />
 </p>
 
@@ -88,7 +88,7 @@ Code. Break. Optimize. Repeat.
 ## 🧠 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-B23&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akash-B23&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
