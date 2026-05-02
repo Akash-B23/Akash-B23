@@ -3,7 +3,7 @@
 <h1 align="center">⚡ Akash.exe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FF00&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;MCP+Server+Architect;Backend+Engineer;System+Design+Learner;Hackathon+Builder+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FF00&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Full+Stack+Developer;Backend+Engineer;System+Design+Learner;Hackathon+Builder+🚀" />
 </p>
 
 ---
