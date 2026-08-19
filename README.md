@@ -29,7 +29,6 @@ const akash = {
   cgpa     : 8.17,
   focus    : ["Full-Stack Development", "AI Integration", "System Design"],
   currently: "Building things that solve real problems",
-  reach_me : "akashbalachandar.bmp@gmail.com  ·  +91 6380533114",
 };
 ```
 
