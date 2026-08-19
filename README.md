@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝
 ```
 
-### `Full-Stack Developer` · `AI Builder` · `Chennai, India`
+### `Full-Stack Developer` · `AI Builder` · `India`
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1630_rating_·_top_28%25-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1327_rating-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/)
@@ -97,11 +97,11 @@ Unified IT ticketing hub pulling from chatbot, email, GLPI, and Solman. NLP-base
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-B23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-B23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&include_all_commits=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-B23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-B23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akash-B23&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akash-B23&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff)
 
 </div>
 
